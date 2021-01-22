@@ -1,0 +1,156 @@
+{
+  "him": "Vignesh A",
+  "her": "Manimekalai R",
+  "wedding_invitation": "Wedding Invitation",
+  "marriage_info": {
+    "marriage_hall": "Amutharani Marriage Hall",
+    "address_1": "Velan Nagar Extension",
+    "address_2": "Siva Sakthi Colony",
+    "address_3": "Udumalaipettai,Tamil Nadu 642126",
+    "marriage_day": "Thursday",
+    "marriage_date": "February 25, 2021",
+    "marriage_time": "04:00 A.M"
+  },
+  "marriage_info_text": {
+    "be_there_at": "be there at",
+    "on": "on",
+    "the_wedding_party": "The wedding party will begin @",
+    "location": "Location",
+    "date_time": "Date & Time"
+  },
+  "our_wedding_story": {
+    "title_1": "Our",
+    "title_2": "Wedding Story",
+    "time_line": {
+      "0": {
+        "date": "16 december 2020",
+        "tamil_date": "1 maarkali 2020",
+        "title": "First call",
+        "place": "Udumalpet",
+        "description": "for introduction"
+      },
+      "1": {
+        "date": "19 december 2020",
+        "tamil_date": "4 maarkali 2020",
+        "title": "Share photo",
+        "place": "Udumalpet",
+        "description": "first time saw the bride photo"
+      },
+      "2": {
+        "date": "20 december 2020",
+        "tamil_date": "5 maarkali 2020",
+        "title": "First meeting",
+        "place": "Udanamar kulasekare kunkumavaliamman temple at solamadevi",
+        "description": "Two families meet each other"
+      },
+      "3": {
+        "date": "27 december 2020",
+        "tamil_date": "12 maarkali 2020",
+        "title": "second meeting",
+        "place": "Udumalpet",
+        "description": "bride relative came to the groom home"
+      },
+      "4": {
+        "date": "3 december 2021",
+        "tamil_date": "19 maarkali 2020",
+        "title": "third meeting",
+        "place": "solamadevi",
+        "description": "groom relative came to the bride home"
+      },
+      "5": {
+        "date": "17 january 2021",
+        "tamil_date": "4 thai 2021",
+        "title": "madambam booking",
+        "place": "udumalpet",
+        "description": "Amutharani Marriage Hall booking"
+      },
+      "6": {
+        "date": "18 january 2021",
+        "tamil_date": "5 thai 2021",
+        "title": "further function date fixing",
+        "place": "solamadevi",
+        "description": "10AM to 12PM function date fixing"
+      },
+      "7": {
+        "date": "27 january 2021",
+        "tamil_date": "14 thai 2021",
+        "title": "vettalai paku (Betel leaf) exchange function",
+        "place": "solamadevi",
+        "description": "early morning 6AM to 7.25AM Thirumangaliyam , 10AM to 12PM vettalai paku exchange function"
+      },
+      "8": {
+        "date": "19 february 2021",
+        "tamil_date": "7 masi 2021",
+        "title": "Panda kaal muhurtham function",
+        "place": "Udumalpet, solamadevi",
+        "description": "6AM to 7.25AM and 9am to 10.30AM Panda kaal muhurtham"
+      },
+      "9": {
+        "date": "22 february 2021",
+        "tamil_date": "10 masi 2021",
+        "title": "Bride thai mama seeru function",
+        "place": "solamadevi",
+        "description": "Bride thai mama seeru function"
+      },
+      "10": {
+        "date": "24 february 2021",
+        "tamil_date": "12 masi 2021",
+        "title": "Nichiyam function",
+        "place": "Udumalpet, solamadevi",
+        "description": "9AM to 12PM Kulathaiva valipadu at groom & bride home, 1.30PM to 11.30PM Mapellai and ponnu allaipu and Nichiyam function "
+      },
+      "11": {
+        "date": "25 february 2021",
+        "tamil_date": "25 masi 2021",
+        "title": "Marriage function",
+        "place": "Udumalpet",
+        "description": "4.30AM to 6AM marriage, 10Am to 1.30AM or 3PM to 5PM maruveedu alaipu ,Paniyara kodam seeru "
+      }
+    }
+  },
+  "important_people": {
+    "title_1": "Important",
+    "title_2": "People",
+    "groom_title": "groom",
+    "bride_title": "bride",
+    "groom": {
+      "father": {
+        "title": "father",
+        "name": "Anandhan V"
+      },
+      "mother": {
+        "title": "mother",
+        "name": "Lakshmi A"
+      },
+      "brother": {
+        "title": "brother",
+        "name": "Hariharan A"
+      }
+    },
+    "bride": {
+      "father": {
+        "title": "father",
+        "name": "Rajashekar R"
+      },
+      "mother": {
+        "title": "mother",
+        "name": "Dhanalakshmi R"
+      },
+      "brother": {
+        "title": "brother",
+        "name": "Chella durai R"
+      }
+    }
+  },
+  "quotes": "Love is all about something unforgettable touching moment which is happening every time between you & me",
+  "lovely_moment": {
+    "title_1": "Lovely",
+    "title_2": "Moment"
+  },
+  "our_wedding_location": {
+    "title_1": "Our",
+    "title_2": "Wedding Location"
+  },
+  "copyright": "Copyright",
+  "developer": "Vignesh A"
+}
